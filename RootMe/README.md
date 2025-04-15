@@ -53,7 +53,7 @@ Không thể check được user có được thực hiện tác vụ gì không
 > find / -perm -4000 -type f 2>/dev/null
 ![SUID](./img/SUID.png)
 
-Ta có thể tận dụng được `python` với SUID để leo thang đặc quyền tham khảo [GTFOBINS](./http://gtfobins.github.io/gtfobins/python/)
+Ta có thể tận dụng được `python` với SUID để leo thang đặc quyền tham khảo [GTFOBINS](http://gtfobins.github.io/gtfobins/python/)
 ![GTFO Python](./img/gtfo-python.png)
 
 Đã thành công leo thang đặc quyền với câu lệnh
