@@ -53,3 +53,11 @@ Sau khi chạy lệnh sẽ tìm kiếm được account mà còn port 2222 chún
 ![User flag](./img/user-flag.png)
 
 ## Privilege Escalation
+Kiểm tra người dùng hiện tại có quyền root với tác vụ nào `sudo -l`
+![Check privilege](./img/privilege-escalation.png)
+
+Để leo thang đặc quyền câu lệnh `sudo vim` sau đó `:!/bin/bash` sẽ có quyền vào root
+
+## root.txt
+Tìm kiếm file root.txt và get flag
+![Root flag](./img/root-flag.png)
