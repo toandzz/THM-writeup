@@ -1,4 +1,4 @@
-# [THM] Anonforce write-up
+# [THM] Ignite write-up
 
 - IP: 10.10.84.37
 
