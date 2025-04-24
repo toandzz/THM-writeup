@@ -40,7 +40,7 @@ Thực thi mã và đã nhận được shell
 
 ![Shell](./img/shell.png)
 
-Tận dụng việc này ta sẽ chèn revese shell. Ta có thể truy cập [revshell](.https://www.revshells.com/) để tạo bash reverse shell
+Tận dụng việc này ta sẽ chèn revese shell. Ta có thể truy cập [revshell](https://www.revshells.com/) để tạo bash reverse shell
 
 ![Reverse shell](./img/revese-shell.png)
 
