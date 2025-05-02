@@ -1,4 +1,4 @@
-# [THM] Whiterose write-up
+# [THM] The Sticker Shop write-up
 
 - IP: 10.10.50.39
 
