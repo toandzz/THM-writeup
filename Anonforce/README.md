@@ -7,7 +7,9 @@
 Sử dụng nmap để dò quét các cổng và dịch vụ đang mở
 > nmap -sT -sV -sC -T4 10.10.148.129
 
-![Nmap-scan](./img/nmap-scan.png)
+<p align="center">
+  <img src="./img/nmap-scan.png" alt="Scan nmap">
+</p>
 
 Có 3 port dịch vụ đang mở bao gồm
 - Port 21 chạy dịch vụ FTP
