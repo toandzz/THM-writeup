@@ -18,10 +18,15 @@ Có 3 port dịch vụ đang mở bao gồm
 
 Ta nhận thấy có thể login FTP với Anonymous account, truy cập thành công vào FTP và nhận ra có thư mục bất thường `notread`
 
-![FTP access](./img/ftp-access.png)
+<p align="center">
+  <img src="./img/./ftp-access.png" alt="FTP access">
+</p>
 
 Phát hiện ra 2 file có vẻ đặc biệt
-![Not read](./img/notread.png)
+
+<p align="center">
+  <img src="./img/notread.png" alt="Not read">
+</p>
 
 ## Exploit
 
@@ -46,7 +51,9 @@ gpg: decryption failed: No secret key
 ```
 Nhưng sau khi thực hiện hành động ta được yêu cầu nhập mật khẩu để có thể decrypt được backup.pgp
 
-![Password require](./img/password-require.png)
+<p align="center">
+  <img src="./img/password-require.png" alt="Password require">
+</p>
 
 Vì vậy trước hết cần bẻ khóa `private.asc` bằng **John the Ripper** 
 ```sh
@@ -64,16 +71,24 @@ anonforce:xbox360:::anonforce <melodias@anonforce.nsa>::private.asc
 
 Sau khi tìm dược mật khẩu là xbox360 thì ta có thể decrypt được file `backup.pgp`
 
-![Backup content](./img/backup-content.png)
+<p align="center">
+  <img src="./img/backup-content.png" alt="Backup content">
+</p>
 
 Khi đó ta có thể lấy được hash mật khẩu của **root** ta tiếp tục sử dụng **John the Ripper** để bẻ khóa
 
-![Root password](./img/root-pass.png)
+<p align="center">
+  <img src="./img/root-pass.png" alt="Root password">
+</p>
 
 Sử dụng mật khẩu vừa tìm được thực hiện SSH
 
 ## user.txt
-![User flag](./img/user-flag.png)
+<p align="center">
+  <img src="./img/user-flag.png" alt="User flag">
+</p>
 
 ## root.txt
-![Root flag](./img/root-flag.png)
+<p align="center">
+  <img src="./img/root-flag.png" alt="Root flag">
+</p>
