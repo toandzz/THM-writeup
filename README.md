@@ -6,22 +6,24 @@
 
 **3. Bounty Hacker:** https://tryhackme.com/room/cowboyhacker
 
-**4. Ignite:** https://tryhackme.com/room/ignite
+**4. Corridor:** https://tryhackme.com/room/corridor
 
-**5. LazyAdmin:** https://tryhackme.com/room/lazyadmin
+**5. Ignite:** https://tryhackme.com/room/ignite
 
-**6. Pickle Rick:** https://tryhackme.com/room/picklerick
+**6. LazyAdmin:** https://tryhackme.com/room/lazyadmin
 
-**7. Plotted-TMS:** https://tryhackme.com/room/plottedtms
+**7. Pickle Rick:** https://tryhackme.com/room/picklerick
 
-**8. RootMe:** https://tryhackme.com/room/rrootme
+**8. Plotted-TMS:** https://tryhackme.com/room/plottedtms
 
-**9. SimpleCTF:** https://tryhackme.com/room/easyctf
+**9. RootMe:** https://tryhackme.com/room/rrootme
 
-**10. Startup:** https://tryhackme.com/room/startup
+**10. SimpleCTF:** https://tryhackme.com/room/easyctf
 
-**11. The Sticker Shop:** https://tryhackme.com/room/thestickershop
+**11. Startup:** https://tryhackme.com/room/startup
 
-**12. WgelCTF:** https://tryhackme.com/room/wgelctf
+**12. The Sticker Shop:** https://tryhackme.com/room/thestickershop
 
-**13. Whiterose:** https://tryhackme.com/room/whiterose
+**13. WgelCTF:** https://tryhackme.com/room/wgelctf
+
+**14. Whiterose:** https://tryhackme.com/room/whiterose
