@@ -8,7 +8,7 @@
 
 **- Corridor:** https://tryhackme.com/room/corridor
 
-**- Ignite:** https://tryhackme.com/room/ignite
+**- Dreaming:** https://tryhackme.com/room/dreaming
 
 **- Ignite:** https://tryhackme.com/room/ignite
 
