@@ -1,29 +1,31 @@
 ## Tryhackme CTF writeup
 
-**1. Anonforce:** https://tryhackme.com/room/bsidesgtanonforce
+**- Anonforce:** https://tryhackme.com/room/bsidesgtanonforce
 
-**2. Billing:** https://tryhackme.com/room/billing
+**- Billing:** https://tryhackme.com/room/billing
 
-**3. Bounty Hacker:** https://tryhackme.com/room/cowboyhacker
+**- Bounty Hacker:** https://tryhackme.com/room/cowboyhacker
 
-**4. Corridor:** https://tryhackme.com/room/corridor
+**- Corridor:** https://tryhackme.com/room/corridor
 
-**5. Ignite:** https://tryhackme.com/room/ignite
+**- Ignite:** https://tryhackme.com/room/ignite
 
-**6. LazyAdmin:** https://tryhackme.com/room/lazyadmin
+**- Ignite:** https://tryhackme.com/room/ignite
 
-**7. Pickle Rick:** https://tryhackme.com/room/picklerick
+**- LazyAdmin:** https://tryhackme.com/room/lazyadmin
 
-**8. Plotted-TMS:** https://tryhackme.com/room/plottedtms
+**- Pickle Rick:** https://tryhackme.com/room/picklerick
 
-**9. RootMe:** https://tryhackme.com/room/rrootme
+**- Plotted-TMS:** https://tryhackme.com/room/plottedtms
 
-**10. SimpleCTF:** https://tryhackme.com/room/easyctf
+**- RootMe:** https://tryhackme.com/room/rrootme
 
-**11. Startup:** https://tryhackme.com/room/startup
+**- SimpleCTF:** https://tryhackme.com/room/easyctf
 
-**12. The Sticker Shop:** https://tryhackme.com/room/thestickershop
+**- Startup:** https://tryhackme.com/room/startup
 
-**13. WgelCTF:** https://tryhackme.com/room/wgelctf
+**- The Sticker Shop:** https://tryhackme.com/room/thestickershop
 
-**14. Whiterose:** https://tryhackme.com/room/whiterose
+**- WgelCTF:** https://tryhackme.com/room/wgelctf
+
+**- Whiterose:** https://tryhackme.com/room/whiterose
