@@ -1,4 +1,4 @@
-# [THM] Dreaming write-up
+# [THM] New York Flankees write-up
 
 - IP: 10.10.11.84
 
@@ -48,14 +48,18 @@ Cùng làm rõ lỗ hổng này **Oracle Padding** (hay còn gọi là **Oracle 
 - Khối đầu tiên: Plaintext được XOR với Initialization Vector (IV), sau đó được mã hóa bằng khóa bí mật
 - Các khối tiếp theo: Mỗi khối plaintext được XOR với khối ciphertext trước đó, sau đó được mã hóa
 
-![CBC encryption](./img/cbc-encryption.png)
+<p align="center">
+    <img src="./img/cbc-encryption.png" alt="CBC encryption">
+</p>
 
  **Giải mã**
 
 - Giải mã khối ciphertext: Mỗi khối ciphertext được giải mã bằng khóa bí mật
 - XOR với khối trước đó: Kết quả giải mã được XOR với khối ciphertext trước đó (hoặc IV đối với khối đầu tiên) để thu được plaintext
 
-![CBC decryption](./img/cbc-decryption.png)
+<p align="center">
+    <img src="./img/cbc-decryption.png" alt="CBC decryption">
+</p>
 
 **Padding là gì**
 
