@@ -14,6 +14,8 @@
 
 **- LazyAdmin:** https://tryhackme.com/room/lazyadmin
 
+**- New York Flankees:** https://tryhackme.com/room/thenewyorkflankees
+
 **- Pickle Rick:** https://tryhackme.com/room/picklerick
 
 **- Plotted-TMS:** https://tryhackme.com/room/plottedtms
