@@ -10,7 +10,11 @@
 
 **- Dreaming:** https://tryhackme.com/room/dreaming
 
+**- Hijack:** https://tryhackme.com/room/hijack
+
 **- Ignite:** https://tryhackme.com/room/ignite
+
+**- Injectics:** https://tryhackme.com/room/injectics
 
 **- LazyAdmin:** https://tryhackme.com/room/lazyadmin
 
