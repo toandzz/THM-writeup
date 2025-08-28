@@ -8,6 +8,8 @@
 
 **- Corridor:** https://tryhackme.com/room/corridor
 
+**- Crytp Failures:** https://tryhackme.com/room/cryptofailures
+
 **- Dreaming:** https://tryhackme.com/room/dreaming
 
 **- Hijack:** https://tryhackme.com/room/hijack
